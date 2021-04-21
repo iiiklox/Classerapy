@@ -24,4 +24,4 @@ And  go crazy! the package contains an `example.py` file, we don't offer documen
 - Implement a whole bunch of missing functions.
 ```
 ---
-Library structure heavily based on [Slimakoi's Amino.py](https://github.com/Slimakoi/Amino.py)
+Library structure heavily based off [Slimakoi's Amino.py](https://github.com/Slimakoi/Amino.py)
