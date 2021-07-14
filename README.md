@@ -1,4 +1,4 @@
-# Classerapy, an unofficial  Classera API
+# Classerapy, an unofficial Classera API wrapper for students
 
 A python unofficial API library for Iraq's Classera schooling platform.
 
